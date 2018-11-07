@@ -1,0 +1,4 @@
+make clean; make; ./cgSolver -i 400 -n 60 -k 3 -o teste -p 1
+
+make clean; make; ./cgSolver -i 400 -n 60 -k 3 -o teste_mod1 -p .5 
+Antes de modificações do FREE
